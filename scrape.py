@@ -7,7 +7,7 @@ import re
 
 
 """
-Driver function to download all media from a model on Fappelo
+Driver function to download all media from a model on Fapello
 """
 def main(url, dst):
      # Sanitize the URL
